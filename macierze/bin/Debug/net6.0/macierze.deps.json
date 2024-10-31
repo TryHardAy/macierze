@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "macierze/1.0.0": {
+        "dependencies": {
+          "Liczby": "1.0.0"
+        },
+        "runtime": {
+          "macierze.dll": {}
+        }
+      },
+      "Liczby/1.0.0": {
+        "runtime": {
+          "Liczby.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "macierze/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Liczby/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

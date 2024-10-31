@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "macierze", "macierze\macierze.csproj", "{ED096948-58D4-49E1-B786-5E89BD0BC714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liczby", "Liczby\Liczby.csproj", "{801E1B28-BD95-4C37-90CF-D8882437C064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED096948-58D4-49E1-B786-5E89BD0BC714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED096948-58D4-49E1-B786-5E89BD0BC714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED096948-58D4-49E1-B786-5E89BD0BC714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED096948-58D4-49E1-B786-5E89BD0BC714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801E1B28-BD95-4C37-90CF-D8882437C064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801E1B28-BD95-4C37-90CF-D8882437C064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801E1B28-BD95-4C37-90CF-D8882437C064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801E1B28-BD95-4C37-90CF-D8882437C064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {240B634F-7B1E-4910-82F3-5324356D6824}
+	EndGlobalSection
+EndGlobal

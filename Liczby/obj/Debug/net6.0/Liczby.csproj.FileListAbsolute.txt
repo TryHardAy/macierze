@@ -1,0 +1,12 @@
+C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\bin\Debug\net6.0\Liczby.deps.json
+C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\bin\Debug\net6.0\Liczby.dll
+C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\bin\Debug\net6.0\Liczby.pdb
+C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\obj\Debug\net6.0\Liczby.csproj.AssemblyReference.cache
+C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\obj\Debug\net6.0\Liczby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\obj\Debug\net6.0\Liczby.AssemblyInfoInputs.cache
+C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\obj\Debug\net6.0\Liczby.AssemblyInfo.cs
+C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\obj\Debug\net6.0\Liczby.csproj.CoreCompileInputs.cache
+C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\obj\Debug\net6.0\Liczby.dll
+C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\obj\Debug\net6.0\refint\Liczby.dll
+C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\obj\Debug\net6.0\Liczby.pdb
+C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\obj\Debug\net6.0\ref\Liczby.dll
