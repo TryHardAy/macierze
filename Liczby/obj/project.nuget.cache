@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4tbyRA83TzzgbC/76yQFdhX4QRdD2bg61/sdPbthvLQ7Z4Z6HOJ+7It5p9ZLXCpBiHsLKVzpn9MddAUWMRZCLA==",
+  "dgSpecHash": "LQt2XaNPsVs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\plgrz\\OneDrive\\Pulpit\\programowanie\\C#\\macierze\\Liczby\\Liczby.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Programowanie\\GitHub\\Macierze\\Liczby\\Liczby.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plgrz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\plgrz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\plgrz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -146,7 +146,6 @@ namespace Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(":DDD");
             Macierz macierz = PodajMacierz();
             MatrixOperations(macierz);
         }
@@ -193,7 +192,7 @@ namespace Program
                     }
                     catch
                     {
-                        Console.WriteLine("Miepoprawna Liczba.");
+                        Console.WriteLine("Miepoprawna Liczba (kliklnij przycisk aby kontynuować).");
                         Console.ReadKey();
                         j--;
                     }
@@ -343,7 +342,7 @@ namespace Program
             if ((command[index] == 'w' && !row) || 
                 (command[index] == 'k' && row) ||
                 (command[index] != 'w' && command[index] != 'k'))
-                throw new Exception("Nieprawidłowa comenda");
+                throw new Exception("Nieprawidłowa komenda");
 
             index++;
 
@@ -381,7 +380,7 @@ namespace Program
             {
                 Console.WriteLine(macierz.String());
                 Console.WriteLine();
-                Console.Write("Podaj operacje do wykonania: ");
+                Console.Write("Podaj operacje do wykonania (np. w1-w2, k3+3k4, w3:2): ");
 
                 text = RemoveSpaces(Console.ReadLine());
 

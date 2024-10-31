@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fOjLNmaefcdK7ZAQ10rUQMavzoL1AaSUcoMDEtKq3F5jSbME5FFSIF8MWOTxBtxDLA/aohoiVz4l5H2MsWcEvw==",
+  "dgSpecHash": "D6POxNT0SZY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\plgrz\\OneDrive\\Pulpit\\programowanie\\C#\\macierze\\macierze\\macierze.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Programowanie\\GitHub\\Macierze\\macierze\\macierze.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plgrz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\plgrz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\plgrz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\plgrz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }

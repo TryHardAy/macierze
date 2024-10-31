@@ -16,7 +16,10 @@
       },
       "Liczby/1.0.0": {
         "runtime": {
-          "Liczby.dll": {}
+          "Liczby.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

@@ -10,3 +10,15 @@ C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\obj\Debug\net6.0
 C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\obj\Debug\net6.0\refint\Liczby.dll
 C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\obj\Debug\net6.0\Liczby.pdb
 C:\Users\plgrz\OneDrive\Pulpit\programowanie\C#\macierze\Liczby\obj\Debug\net6.0\ref\Liczby.dll
+D:\Programowanie\GitHub\Macierze\Liczby\bin\Debug\net6.0\Liczby.deps.json
+D:\Programowanie\GitHub\Macierze\Liczby\bin\Debug\net6.0\Liczby.dll
+D:\Programowanie\GitHub\Macierze\Liczby\bin\Debug\net6.0\Liczby.pdb
+D:\Programowanie\GitHub\Macierze\Liczby\obj\Debug\net6.0\Liczby.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\GitHub\Macierze\Liczby\obj\Debug\net6.0\Liczby.AssemblyInfoInputs.cache
+D:\Programowanie\GitHub\Macierze\Liczby\obj\Debug\net6.0\Liczby.AssemblyInfo.cs
+D:\Programowanie\GitHub\Macierze\Liczby\obj\Debug\net6.0\Liczby.csproj.CoreCompileInputs.cache
+D:\Programowanie\GitHub\Macierze\Liczby\obj\Debug\net6.0\Liczby.sourcelink.json
+D:\Programowanie\GitHub\Macierze\Liczby\obj\Debug\net6.0\Liczby.dll
+D:\Programowanie\GitHub\Macierze\Liczby\obj\Debug\net6.0\refint\Liczby.dll
+D:\Programowanie\GitHub\Macierze\Liczby\obj\Debug\net6.0\Liczby.pdb
+D:\Programowanie\GitHub\Macierze\Liczby\obj\Debug\net6.0\ref\Liczby.dll
